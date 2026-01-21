@@ -1,2 +1,0 @@
-
-#telegram-mini-app
